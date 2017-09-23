@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 ## Copyright
 
 2014 Git TRaining
+
+Please fork this repository then issue pull request
